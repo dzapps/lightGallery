@@ -5,20 +5,7 @@
 
 # lightGallery
 		
-\<script async
-src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"\>\</script\>
-\<!\-- kolkotob\_sidebar1\_AdSense1\_1x1\_as \--\> \<ins
-class=\"adsbygoogle\" style=\"display:block\"
-data-ad-client=\"ca-pub-9935930967042478\"
-data-ad-host=\"ca-host-pub-1556223355139109\"
-data-ad-host-channel=\"L0001\" data-ad-slot=\"2999405541\"
-data-ad-format=\"auto\" data-full-width-responsive=\"true\"\>\</ins\>
-\<script\>
 
-  (adsbygoogle = window.adsbygoogle   \[\]).push({});
-  ----------------------------------- -----------------
-
-\</script\>
 
 A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 ![lightgallery](https://raw.githubusercontent.com/sachinchoolur/lightGallery/master/lib/lg.png)
